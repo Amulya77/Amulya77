@@ -1,7 +1,7 @@
 
 <h1 align="center"> <img src="https://github.com/Amulya77/Amulya77/blob/main/63fe7bf03ff07d71964921fb72ec6998.jpg" height="300" width="800" /> 
   <h2 align="center">Hi 👋, I'm Amulya Kumar Maurya</h2>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amulya77&label=Profile%20views&color=0e75b6&style=flat" alt="amulya77" /> </p>
 
