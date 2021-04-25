@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **20bcs6853@cuchd.in**
 
-- ⚡ Fun fact **I love Cricket.**
+- ⚡ Fun fact **I am a Digital Artist and I love Cricket.**
 
 
 <h3 align="left">Connect with me:</h3>
