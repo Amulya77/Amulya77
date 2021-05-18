@@ -1,10 +1,10 @@
 
 <h1 align="center"> <img src="https://github.com/Amulya77/Amulya77/blob/main/Black%20Technology%20LinkedIn%20Banner.png" height="300" width="1000" /> 
   <h2 align="center">Hi 👋, I'm Amulya Kumar Maurya</h2>
-<h3 align="center">A passionate enthusiast from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amulya77&label=Profile%20views&color=0e75b6&style=flat" alt="amulya77" /> </p>
+<h3 align="center">A coder , artist , Indian</h3>
 <img align='right' src="https://cdni.iconscout.com/illustration/premium/thumb/college-student-boy-studying-on-laptop-with-e-books-2710149-2261433.png" height="300" width="400">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amulya77&label=Profile%20views&color=0e75b6&style=flat" alt="amulya77" /> </p>
+
 - 👯 I’m looking to collaborate on **Open Source**
 
 - 💬 Ask me about **C++,Photoshop.**
