@@ -1,5 +1,5 @@
 
-<h1 align="center"> <img src="https://github.com/Amulya77/Amulya77/blob/main/63fe7bf03ff07d71964921fb72ec6998.jpg" height="300" width="800" /> 
+<h1 align="center"> <img src="https://github.com/Amulya77/Amulya77/blob/main/Black%20Technology%20LinkedIn%20Banner.png" height="300" width="1000" /> 
   <h2 align="center">Hi 👋, I'm Amulya Kumar Maurya</h2>
 <h3 align="center">A passionate enthusiast from India</h3>
 
