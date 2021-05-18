@@ -4,7 +4,7 @@
 <h3 align="center">A passionate enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amulya77&label=Profile%20views&color=0e75b6&style=flat" alt="amulya77" /> </p>
-
+<img align='right' src="https://cdni.iconscout.com/illustration/premium/thumb/college-student-boy-studying-on-laptop-with-e-books-2710149-2261433.png" height="300" width="400">
 - 👯 I’m looking to collaborate on **Open Source**
 
 - 💬 Ask me about **C++,Photoshop.**
