@@ -24,6 +24,6 @@
 <a href="https://www.facebook.com/amulya.maurya.9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="amulyamaurya" height="30" width="40" /></a>
 </p>
 
-<p align="left"><h4 align="left">Languages and Tools:<img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966"height="30" width="40"</h4></p>
+<p align="left"><h4 align="left">Languages and Tools:<img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" height ="30" width="40"</h4></p>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 <p align="left"> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://miro.medium.com/max/600/1*u9Rw2zT1kQl0I0Oa-9vc_g.png" alt="vscode" width="40" height="40"/> 
