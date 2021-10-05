@@ -2,18 +2,19 @@
 <h1 align="center"> <img src="https://github.com/Amulya77/Amulya77/blob/main/Black%20Technology%20LinkedIn%20Banner.png" height="300" width="1100" /> 
   <h2 align="center">Namaste :pray:, I'm Amulya Kumar Maurya</h2>
 <h3 align="center">A Coder , Artist , Indian</h3>
+ <i>I am a first generation student present in the tech world only because of the hard work of my family. I am passionate about using software engineering combined with latest technologies to build powerful projects from scratch with a clear objective in mind. A sophmore in CSE at CHANDIGARH UNIVERSITY. I love experimenting with new technologies and frameworks and sharing or learning them with others here in the Open Source Community.Django and ReactJs are my favourite Frameworks when it comes to develop and collaborate on applications. Other than this, you might find me binging on WEBSERIES or reading WEBTOONS.</i> 
 <img align='right' src="https://cdni.iconscout.com/illustration/premium/thumb/college-student-boy-studying-on-laptop-with-e-books-2710149-2261433.png" height="300" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amulya77&label=Profile%20views&color=0e75b6&style=flat" alt="amulya77" /> </p>
 
-- 👯 I’m looking to collaborate on **Open Source**
 
-- 💬 Ask me about **C++,Photoshop.**
+
+- 💬 Ask me about **Anything known to me**
 
 - 📫 How to reach me **akmewtriple7@gmail.com**
 
 - 📫 How to reach me **20bcs6853@cuchd.in**
 
-- ⚡ **I am a Digital Artist and I love Cricket.**
+- ⚡ <i>**I am a Digital Artist and I love Cricket.**<i>
 
 
 <h3 align="left">Connect with me:</h3>
