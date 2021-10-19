@@ -31,3 +31,18 @@
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/><a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40" width="40" /> </a> <a href="https://www.javatpoint.com/java-tutorial" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" height="50" width="50" /> </a> 
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 <p align="left"> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://miro.medium.com/max/600/1*u9Rw2zT1kQl0I0Oa-9vc_g.png" alt="vscode" width="40" height="40"/>  <a href="https://cloud.google.com/" target="_blank"> <img src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png" width="80" height="40"/> </a>
+  
+   --- 
+
+
+<p align="left">
+   <i> 
+    
+    
+    “There is a TACHYON inside my head i.e. my mind.”
+         
+   ― Amulya Maurya
+  </i>
+</p>       
+
+---
