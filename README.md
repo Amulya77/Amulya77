@@ -1,3 +1,3 @@
 HEY!!
 I am Amulya.
-I love stalking on someone else's code
+I love to stalk someone else's code."
